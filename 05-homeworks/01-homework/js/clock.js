@@ -24,7 +24,7 @@ function currentTime() {
     document.getElementById("myClock").innerText = time; 
     var t = setTimeout(function(){ currentTime() }, 1000); 
   
-  }
+  } // I took from this site https://flexiple.com/javascript/javascript-clock/
   
   currentTime();
 
