@@ -8,3 +8,4 @@
 
 // console.log ile Merhaba Dunya:
 console.log("Merhaba Dunya")
+alert('test')
