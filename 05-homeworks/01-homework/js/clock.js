@@ -25,6 +25,8 @@ function currentTime() {
     var t = setTimeout(function(){ currentTime() }, 1000); 
   
   } // I took from this site https://flexiple.com/javascript/javascript-clock/
+
+  // bu notu sadece ödevi yüklemek için yazıyorum
   
   currentTime();
 
